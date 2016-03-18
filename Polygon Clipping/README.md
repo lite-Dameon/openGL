@@ -6,6 +6,7 @@ The Sutherland–Hodgman algorithm is used for clipping polygons. It works by ex
 ##How to run
 * g++ polygon_clipping.cpp -lglut -lGL -lGLU 
 * ./a.out
+* Press p or P to execute the algorithm
 
 
 ##Basic Idea
