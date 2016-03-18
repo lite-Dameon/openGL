@@ -13,7 +13,7 @@ The Sutherland–Hodgman algorithm is used for clipping polygons. It works by ex
 in turn.
 * The algorithm steps from vertex to vertex, adding 0, 1, or 2 vertices to the output list at
 each step.
-![Cases ](https://github.com/mamexo/CS345NetworkLab/blob/master/Chord/img/sample.png)
+![Cases ](https://github.com/mamexo/openGL/blob/master/Polygon Clipping/img/case.png)
 * There are 4 cases that can happen :
  * Assuming vertex A has already been processed,
  * Case 1 — vertex B is added to the output list
