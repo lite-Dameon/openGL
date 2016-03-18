@@ -23,4 +23,4 @@ using the code, obtain the edge that is crossed first.
 * Repeat the above steps, if the other endpoint is also outside the area.
 
 ## Demo
-![Line Clipping demo ](https://github.com/mamexo/CS345NetworkLab/blob/master/Chord/img/sample.png)
+![Line Clipping demo ](https://github.com/mamexo/openGL/blob/master/Line%20Clipping/img/line_clipping.png)
