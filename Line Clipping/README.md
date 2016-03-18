@@ -5,6 +5,7 @@ Cohen and Sutherland Line Clipping Algorithm
 ##How to run
 * g++ line_clipping.cpp -lglut -lGL -lGLU 
 * ./a.out
+* Press p or P to execute the algorithm
 
 
 ##Steps Involved
